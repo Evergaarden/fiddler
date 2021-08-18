@@ -1,9 +1,11 @@
 
-## Задание с использованием Fiddler Classic и Postman
+## Задание с использованием Fiddler Everywhere и Postman
 
-----
-----
-----
+<br><a href="https://github.com/Evergaarden/fiddler/blob/main/Fiddler_Everywhere_rules.farx">Fiddler_Everywhere_rules.farx</a> - правила для модификация трафика с использованием regex
+
+<br><a href="https://github.com/Evergaarden/fiddler/blob/main/Fiddler_Everywhere_session_request.saz">Fiddler_Everywhere_session_request.saz</a> - сохраненная сессия с запросами
+
+<br><a href="https://github.com/Evergaarden/fiddler/blob/main/Fiddler_Everywhere.postman_collection.json">Fiddler_Everywhere.postman_collection.json</a>- коллекция запросов Postman, которая использовалась для подмены трафика
 
 <br> **Список задач:**
 
